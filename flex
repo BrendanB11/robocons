@@ -167,6 +167,16 @@ Get this from the settings area when logged into <a href="http://spark.io">http:
 
 
 
+<input type="button" value="d0-send-0" onClick="{
+    sendToSpark('d0-send-0')
+}">
+
+
+
+<input type="button" value="d0-send-1" onClick="{
+    sendToSpark('d0-send-1')
+}">
+
 
 
 <input type="button" value="d7-send-1" onClick="{
